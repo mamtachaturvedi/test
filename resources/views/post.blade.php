@@ -8,7 +8,7 @@
 
 	<h1>Heading one</h1>
 	<p><?= $post; ?>
-		<a href="/">Back</a>
+		<a href="/">Previous</a>
 		
 	</p>
 
